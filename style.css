@@ -6,3 +6,7 @@ body{
     width: 250;
     height: 400px;
 }
+.word{
+    color:black;
+    font-weight: 600;
+}
